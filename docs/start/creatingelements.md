@@ -1,7 +1,7 @@
 ---
 layout: default
 type: start
-shortname: Start
+shortname: MMokhtari
 title: Polymer in 10 minutes 
 subtitle: Creating elements
 ---
